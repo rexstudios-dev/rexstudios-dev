@@ -9,7 +9,7 @@ I'm Rex Dev, a Web Developer and aspiring Systems Engineer from Argentina 🇦�
 * 🚀  I'm currently working on [Digital Fort Agency Marketing, Ciber Security, Developers Web](digital-fort.org)
 * 🧠  I'm learning C#, C++, Python, and HolyC just for fun!
 * 🤝  I'm open to collaborating on cybersecurity projects, web development, and low-level development
-* ⚡  My favorite operating system is TempleOS XD
+* ⚡  My favorite operating system is Arch Linux XD
 
 ### Skills
 
