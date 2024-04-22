@@ -3,7 +3,9 @@
 
 ## About Me 🚀
 
-I'm Rex Dev, a Web Developer and aspiring Systems Engineer from Argentina 🇦🇷. I'm currently studying at the college to become a systems engineer, but my journey into the world of development and cybersecurity started when I was 12. I'm passionate about continuous learning and self-improvement, and you'll find all my progress here. ❤️
+I am Rex Dev, Web Developer and aspiring Systems Engineer from Argentina 🇦🇷. but my journey into the world of development and cybersecurity began when I was 12 years old. I am passionate about continuous learning and personal improvement, and you will find all my progress. here. ❤️
+
+
 
 * 🌍  I'm based in Argentina 🇦🇷
 * 🚀  I'm currently working on [Digital Fort Agency Marketing, Ciber Security, Developers Web](digital-fort.org)
